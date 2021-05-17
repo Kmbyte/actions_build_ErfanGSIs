@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl3.smartisan.com/ota/rls.darwin-mol-8.0.0-20201230-SEKSA.darwin-user/202104150002/8.1.3-202104142049-user-drw-b77ea67d42.zip
-  ROM_NAME: Generic
+  ROM_URL: http://download.h2os.com/OnePlus8/MP/OnePlus8Hydrogen_15.H.35_OTA_0350_all_2103232305_7579c3fd0b54480d.zip
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
